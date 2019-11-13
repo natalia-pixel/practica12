@@ -1,0 +1,76 @@
+body{
+    background-color: #c1b267;
+}
+h1{
+    font-size: xx-large;
+    color: #c1b267; 
+    text-align: center;
+}
+h1.title, h2{
+    font-size: xx-large;
+    color:red; 
+    text-align: center;
+}
+
+section.titulo{
+    text-align: center;
+    color
+}
+p.carta {
+    text-align: left; 
+    background-color:  #c1b267;
+}
+p.cafe{
+    text-align: center; 
+    background-color:  #c1b267);
+}
+p.contacto{
+    text-align: right; 
+    background-color:  #c1b267; 
+}
+p.carta2{
+    color: #663300; 
+}
+p.ubica, p.na{
+    text-align: center;
+    font-weight: 600;
+}
+h2.desayuno {
+    font-size: xx-large;
+    color:rgb(131, 68, 68); 
+    text-align: left;
+}
+li.tradicional, li.especial, li.bola {
+    color: rgb(230, 246, 1);
+}
+h3.premios {
+    text-align: center;
+    font-weight: bold;
+}
+th {
+    background-color: bisque;
+
+}
+th.t1{
+    width: 100px;
+    height: 25px;
+    background-color: bisque;
+    color:#663300;
+}
+td.t1{
+    width: 900px;
+    height: 25px;
+    color:#663300;
+}
+th.t2{
+    width: 400px;
+    height: 25px;
+    background-color: bisque;
+    color: #663300;
+
+}
+td.t2 {
+    width: 1600px;
+    height: 25px;
+    color:  663300;
+}
