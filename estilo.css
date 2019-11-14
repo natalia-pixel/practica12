@@ -43,9 +43,10 @@ h2.desayuno {
 li.tradicional, li.especial, li.bola {
     color: rgb(230, 246, 1);
 }
-h3.premios {
+caption.premios {
     text-align: center;
     font-weight: bold;
+    font-weight: 900px;
 }
 th {
     background-color: bisque;
